@@ -22,7 +22,7 @@ Dive into my Medium stories where I share insights, experiences, and tech discov
 
 👥 **Collaboration in the Codebase**: I'm ready to collaborate in the repository on projects related to Software Engineering, Web Development, Data Science or Machine Learning. Whether it's data analysis, software development, or crafting web applications, I'm eager to commit to exciting coding initiatives.
 
-📦 **Exploring the React Codebase**: Currently, my code journey is navigating the React universe. I'm writing React code to create web experiences that don't just run; they shine and inspire others to write great code.
+📦 **Exploring the Full Stack Codebase**: Currently, my code journey is navigating the Full Stack universe. I'm creating web experiences that don't just run; they shine and inspire others to write great code.
 
 💬 **Queries About the Code**: Feel free to query me about coding-related topics, whether it's Data Science, Machine Learning, Software Engineering, Web Development, or my tech adventure. I'm here to merge branches of knowledge and share my coding insights.
 

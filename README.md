@@ -9,8 +9,6 @@ I'm ready to merge code, collaborate on projects, and discover new opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwickreddymora)
 [![Mail](https://img.shields.io/badge/Mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwickreddymora@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://sathwick-reddy-m.github.io/portfolio/)
-[![Resume](https://img.shields.io/badge/Resume-%23EEECEB.svg?style=for-the-badge&logo=Resume&logoColor=white)](https://drive.google.com/file/d/1tpX7u6hP5ZpN3MAH8ON8HtpTa-1hc5g_/view?usp=sharing)
 
 <!-- ## 📚 Medium Stories
 Dive into my Medium stories where I share insights, experiences, and tech discoveries in the world of coding, data science, and more. Explore the written side of my tech journey! 📝🚀

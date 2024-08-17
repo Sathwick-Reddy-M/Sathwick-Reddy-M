@@ -1,14 +1,13 @@
-<h1 align="center">Hey there 👋, I'm Sathwick!</h1>
-<!-- <h1 align="center">Hey there 👋, I'm Sathwick! <br> Delighted to e-meet you in the digital realm 🌐.</h1> -->
-<div align="center">Passionate about Software, Data Science and Web Development.</div>
-<p align="center">Coding, crunching data, and crafting the web.</p>
+<h1 align="center">Hi there 👋, I'm Sathwick!</h1>
+<!-- <h1 align="center">Hi there 👋, I'm Sathwick! <br> Delighted to e-meet you in the digital realm 🌐.</h1> -->
+<div align="center">Passionate about creating impactful software with Generative AI and data-driven insights.</div>
+<!-- <p align="center">Coding, crunching data, and crafting the web.</p> -->
 
 ## 💡 Let's Innovate Together
 
 I'm ready to merge code, collaborate on projects, and discover new opportunities. Feel free to send a pull request to my inbox.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwickreddymora)
-[![Mail](https://img.shields.io/badge/Mail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sathwickreddymora@gmail.com)
 
 <!-- ## 📚 Medium Stories
 Dive into my Medium stories where I share insights, experiences, and tech discoveries in the world of coding, data science, and more. Explore the written side of my tech journey! 📝🚀
@@ -17,23 +16,19 @@ Dive into my Medium stories where I share insights, experiences, and tech discov
 
 ## 💫 About Me
 
-💻 **Seeking Code Ventures**: I'm not just on the lookout, I'm actively seeking internship opportunities in the realms of Software Development, Web Development, Data Science or Machine Learning. If your project or role requires these skills, let's create a pull request for a conversation!
+**📦 Exploring the LLM Codebase**: My coding journey is fully immersed in the fascinating world of GenerativeAI. I'm actively experimenting with various Large Language Models (LLMs) and fine-tuning LLMs, diving into open-source models from Hugging Face, and working with concepts like Retrieval Augmented Generation (RAG), embeddings, and vector search.
 
-🛠️ **Current Coding Quests**: In the world of coding, I'm not just coding; I'm actively coding to enhance my skills in Software Development, Web Development, Data Science, and Machine Learning. I'm crafting personal projects to sharpen my expertise in each of these coding realms.
+**👥 Collaboration in the Codebase**: I'm enthusiastic about collaborating on projects that design effective software solutions using GenerativeAI and data-driven insights. Whether building sophisticated applications, conducting detailed data analysis, or crafting innovative tools, I'm excited to contribute to ventures that address real-world challenges and promote informed decision-making!
 
-👥 **Collaboration in the Codebase**: I'm ready to collaborate in the repository on projects related to Software Development, Web Development, Data Science or Machine Learning. Whether it's data analysis, software development, or crafting web applications, I'm eager to commit to exciting coding initiatives.
+**💬 Queries About the Code**: Feel free to query me about coding-related topics, whether it's Data Science, Machine Learning, Software Development, or my tech adventure. I'm here to merge branches of knowledge and share my coding insights.
 
-📦 **Exploring the Full Stack Codebase**: Currently, my code journey is navigating the Full Stack universe. I'm creating web experiences that don't just run; they shine and inspire others to write great code.
-
-💬 **Queries About the Code**: Feel free to query me about coding-related topics, whether it's Data Science, Machine Learning, Software Development, Web Development, or my tech adventure. I'm here to merge branches of knowledge and share my coding insights.
-
-⚡ **Beyond the Code**: I'm not just passionate about coding; I'm also powered up by watching an impressive number of movies in my free time. 🍿🎬
+**🌟 Beyond the Code**: When I'm not immersed in code, I'm probably watching a good movie. 🍿🎬
 
 Let's code something amazing together! 🌟
 
 ## 🧑‍💻 Tech Stack
 
-**GenerativeAI**
+**Generative AI**
 
 ![LLM](https://img.shields.io/badge/LLM-f59b42?style=for-the-badge) ![LLM Fine Tuning](https://img.shields.io/badge/LLM%20Fine%20Tuning-119e84?style=for-the-badge&logo=bigquery&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black) ![Embeddings](https://img.shields.io/badge/Embeddings-beabf5?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-faec70?style=for-the-badge) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-4c7cf5?style=for-the-badge) ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude%20API-dff02b?style=for-the-badge) 
 
